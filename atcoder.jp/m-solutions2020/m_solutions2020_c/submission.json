@@ -1,0 +1,12 @@
+{
+	"id": 15457534,
+	"epoch_second": 1595693336,
+	"problem_id": "m_solutions2020_c",
+	"contest_id": "m-solutions2020",
+	"user_id": "das",
+	"language": "PyPy3 (7.3.0)",
+	"point": 300,
+	"length": 163,
+	"result": "AC",
+	"execution_time": 151
+}
